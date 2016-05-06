@@ -9,7 +9,11 @@
     "minify": "uglifyjs build/terrible-lodash.js -c -m -o build/terrible-lodash.min.js",
     "version": "npm run build && npm run minify && git add build/terrible-lodash.js build/terrible-lodash.min.js"
   },
-  "author": "kiernan <hi@kiernan.io> (http://kiernan.io/)",
+  "author": {
+    "name": "kiernan",
+    "email": "kiernan@537.io",
+    "url": "537.io"
+  },
   "license": "MIT",
   "dependencies": {
     "lodash._arrayeach": "^3.0.0",
