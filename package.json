@@ -7,8 +7,7 @@
   "scripts": {
     "build": "mkdir -p build && rollup -c rollup.config.js -o build/terrible-lodash.js",
     "minify": "uglifyjs build/terrible-lodash.js -c -m -o build/terrible-lodash.min.js",
-    "version": "npm run build && npm run minify && git add build/terrible-lodash.js build/terrible-lodash.min.js",
-    "prepublish": "npm run minify"
+    "version": "npm run build && npm run minify && git add build/terrible-lodash.js build/terrible-lodash.min.js"
   },
   "author": "kiernan <hi@kiernan.io> (http://kiernan.io/)",
   "license": "MIT",
@@ -325,7 +324,6 @@
   },
   "devDependencies": {
     "rollup": "0.25.4",
-    "rollup-plugin-commonjs": "^2.2.1",
     "rollup-plugin-node-resolve": "^1.4.0",
     "uglify-js": "^2.6.2"
   }
