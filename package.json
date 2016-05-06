@@ -1,6 +1,6 @@
 {
   "name": "terrible-lodash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lodash done terribly. don't use this.",
   "main": "build/terrible-lodash.js",
   "jsnext": "index.js",
