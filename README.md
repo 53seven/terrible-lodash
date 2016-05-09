@@ -11,6 +11,7 @@ Lodash done terribly. Please don't use this.
 npm install terrible-lodash
 ```
 
+![](https://537.io/content/images/2016/04/cropped-1.png)
 
 Recreating
 ---
