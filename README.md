@@ -1,6 +1,8 @@
 terrible-lodash
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/53seven/terrible-lodash.svg)](https://greenkeeper.io/)
+
 [Lodash done terribly. Please don't use this.](https://537.io/terrible-lodash/)
 
 `terrible-lodash` is an experiment in seeing what happens when each function gets their own package. In `terrible-lodash` each function is just a re-export of its npm package. For example: [lodash.identity](https://www.npmjs.com/package/lodash.identity).
