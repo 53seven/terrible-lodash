@@ -149,7 +149,7 @@
     "lodash.isarraylikeobject": "^4.0.3",
     "lodash.isboolean": "^3.0.3",
     "lodash.isbuffer": "^4.3.2",
-    "lodash.isdate": "^3.0.3",
+    "lodash.isdate": "^4.0.1",
     "lodash.iselement": "^4.0.0",
     "lodash.isempty": "^4.2.1",
     "lodash.isequal": "^4.1.4",
@@ -163,19 +163,19 @@
     "lodash.ismatch": "^4.1.4",
     "lodash.ismatchwith": "^4.1.4",
     "lodash.isnan": "^3.0.2",
-    "lodash.isnative": "^3.0.7",
+    "lodash.isnative": "^4.0.1",
     "lodash.isnil": "^4.0.0",
     "lodash.isnull": "^3.0.0",
     "lodash.isnumber": "^3.0.3",
     "lodash.isobject": "^3.0.2",
     "lodash.isobjectlike": "^4.0.0",
     "lodash.isplainobject": "^4.0.4",
-    "lodash.isregexp": "^3.0.5",
+    "lodash.isregexp": "^4.0.1",
     "lodash.issafeinteger": "^4.0.2",
     "lodash.isset": "^4.3.4",
     "lodash.isstring": "^4.0.1",
     "lodash.issymbol": "^4.0.1",
-    "lodash.istypedarray": "^3.0.6",
+    "lodash.istypedarray": "^4.0.1",
     "lodash.isundefined": "^3.0.1",
     "lodash.isweakmap": "^4.3.4",
     "lodash.isweakset": "^4.3.0",
@@ -327,8 +327,8 @@
     "lodash.zipwith": "^4.0.0"
   },
   "devDependencies": {
-    "rollup": "0.25.4",
-    "rollup-plugin-node-resolve": "^1.4.0",
+    "rollup": "0.41.6",
+    "rollup-plugin-node-resolve": "^3.0.0",
     "uglify-js": "^2.6.2"
   }
 }
